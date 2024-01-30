@@ -6,6 +6,7 @@ Any ESP32-supported programming IDE can be used to program the controller.
 
 ESP32-WROVER-B Module
 Built-in Button on the front panel
+Digital Inputs
 Thermocouple inputs
 transistor outputs
 DIN-Rail mount
